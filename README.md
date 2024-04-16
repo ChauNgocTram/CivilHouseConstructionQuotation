@@ -1,14 +1,7 @@
 # Civil housing construction quotation system - LOVEHOUSE
 
 ## Description
-
-
-
-## Features
-
-## Acknowledgements
-
-We would like to acknowledge the following individuals and projects for their contributions and inspiration to the Civil Housing Construction Quotation system:
+Project quote for civil construction house. Built on a client - server (FE-BE) structure that communicates via API
 
 ### Front-end:
 
